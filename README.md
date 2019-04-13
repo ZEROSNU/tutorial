@@ -6,7 +6,7 @@
 Clone the repository into your local machine.
 
 ```
-git clone https://github.com/zerosnu/tutorial
+git clone https://github.com/ZEROSNU/tutorial
 ```
 
 Install Jupyter:
