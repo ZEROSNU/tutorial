@@ -12,7 +12,7 @@ git clone https://github.com/ZEROSNU/tutorial
 Install Jupyter:
 
 ``` 
-sudo apt-get install jupyter
+pip install jupyter
 ```
 Install Numpy:
 
